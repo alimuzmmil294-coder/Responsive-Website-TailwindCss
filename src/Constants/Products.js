@@ -1,0 +1,22 @@
+export const products = [
+    { id: 1, name: "Wireless Headphones", price: 99.99, category: "Electronics", inStock: true },
+    { id: 2, name: "Mechanical Keyboard", price: 129.50, category: "Electronics", inStock: true },
+    { id: 3, name: "Leather Journal", price: 24.00, category: "Stationery", inStock: true },
+    { id: 4, name: "Hydro Flask 32oz", price: 45.00, category: "Fitness", inStock: false },
+    { id: 5, name: "Yoga Mat", price: 30.00, category: "Fitness", inStock: true },
+    { id: 6, name: "Smart Watch", price: 199.99, category: "Electronics", inStock: true },
+    { id: 7, name: "Ceramic Coffee Mug", price: 15.00, category: "Home", inStock: true },
+    { id: 8, name: "Desk Lamp", price: 35.00, category: "Home", inStock: true },
+    { id: 9, name: "Denim Jacket", price: 75.00, category: "Apparel", inStock: true },
+    { id: 10, name: "Running Shoes", price: 110.00, category: "Fitness", inStock: true },
+    { id: 11, name: "Bluetooth Speaker", price: 55.00, category: "Electronics", inStock: false },
+    { id: 12, name: "Canvas Backpack", price: 60.00, category: "Apparel", inStock: true },
+    { id: 13, name: "Scented Candle", price: 18.50, category: "Home", inStock: true },
+    { id: 14, name: "Electric Kettle", price: 40.00, category: "Home", inStock: true },
+    { id: 15, name: "Chef's Knife", price: 85.00, category: "Kitchen", inStock: true },
+    { id: 16, name: "Bamboo Cutting Board", price: 22.00, category: "Kitchen", inStock: true },
+    { id: 17, name: "USB-C Hub", price: 49.00, category: "Electronics", inStock: true },
+    { id: 18, name: "Polarized Sunglasses", price: 120.00, category: "Accessories", inStock: true },
+    { id: 19, name: "Minimalist Wallet", price: 35.00, category: "Accessories", inStock: true },
+    { id: 20, name: "External Hard Drive", price: 89.99, category: "Electronics", inStock: false }
+];

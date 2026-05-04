@@ -11,7 +11,7 @@ const NavBar = () => {
   ];
 
   return (
-    <div className="flex justify-between p-2 md:p-4 lg:p-5 text-gray-50 bg-blue-950">
+    <div className="flex items-center justify-between p-2 md:p-4 lg:p-5 text-gray-50 bg-blue-950">
       <ul
         className={`${isOpen ? "flex" : "hidden"} text-2xl flex-col bg-blue-950 w-[60%] p-6 gap-4 h-screen  fixed top-0 left-0 z-30`}
       >
